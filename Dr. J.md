@@ -80,7 +80,8 @@ for next_word in word_list[1:-1]:
 
 
 ```python
-DiGraph(sentence_dict).show(method = "js", link_strength = 0.2)
+#uncomment the line below to see a cool directed graph of all the words.
+#DiGraph(sentence_dict).show(method = "js", link_strength = 0.2)
 ```
 
 
@@ -95,11 +96,10 @@ for i in range(100):
         output = output[:-1] + '. '
     else:
         output += word + ' '
-show(output)
+print(output)
 ```
 
-
-<html><script type="math/tex; mode=display">\newcommand{\Bold}[1]{\mathbf{#1}}\verb|if|\phantom{\verb!x!}\verb|the|\phantom{\verb!x!}\verb|good|\phantom{\verb!x!}\verb|and|\phantom{\verb!x!}\verb|custom|\phantom{\verb!x!}\verb|of|\phantom{\verb!x!}\verb|devonshire|\phantom{\verb!x!}\verb|or|\phantom{\verb!x!}\verb|at|\phantom{\verb!x!}\verb|once,|\phantom{\verb!x!}\verb|i|\phantom{\verb!x!}\verb|addressed|\phantom{\verb!x!}\verb|the|\phantom{\verb!x!}\verb|same|\phantom{\verb!x!}\verb|wherever|\phantom{\verb!x!}\verb|they|\phantom{\verb!x!}\verb|ran|\phantom{\verb!x!}\verb|after|\phantom{\verb!x!}\verb|the|\phantom{\verb!x!}\verb|higher|\phantom{\verb!x!}\verb|gluttony.|\phantom{\verb!x!}\verb|but|\phantom{\verb!x!}\verb|a|\phantom{\verb!x!}\verb|bad|\phantom{\verb!x!}\verb|civilization|\phantom{\verb!x!}\verb|spreads|\phantom{\verb!x!}\verb|over|\phantom{\verb!x!}\verb|the|\phantom{\verb!x!}\verb|milk|\phantom{\verb!x!}\verb|of|\phantom{\verb!x!}\verb|the|\phantom{\verb!x!}\verb|grand|\phantom{\verb!x!}\verb|lama|\phantom{\verb!x!}\verb|has|\phantom{\verb!x!}\verb|soap|\phantom{\verb!x!}\verb|it|\phantom{\verb!x!}\verb|several|\phantom{\verb!x!}\verb|times,|\phantom{\verb!x!}\verb|but|\phantom{\verb!x!}\verb|bread|\phantom{\verb!x!}\verb|and|\phantom{\verb!x!}\verb|cheese,|\phantom{\verb!x!}\verb|but|\phantom{\verb!x!}\verb|a|\phantom{\verb!x!}\verb|solid|\phantom{\verb!x!}\verb|but|\phantom{\verb!x!}\verb|cheese|\phantom{\verb!x!}\verb|there|\phantom{\verb!x!}\verb|would|\phantom{\verb!x!}\verb|reel|\phantom{\verb!x!}\verb|and|\phantom{\verb!x!}\verb|cheese,|\phantom{\verb!x!}\verb|if|\phantom{\verb!x!}\verb|the|\phantom{\verb!x!}\verb|only|\phantom{\verb!x!}\verb|other|\phantom{\verb!x!}\verb|poet|\phantom{\verb!x!}\verb|that|\phantom{\verb!x!}\verb|instead|\phantom{\verb!x!}\verb|of|\phantom{\verb!x!}\verb|song.|\phantom{\verb!x!}\verb|my|\phantom{\verb!x!}\verb|voice,|\phantom{\verb!x!}\verb|not|\phantom{\verb!x!}\verb|produced|\phantom{\verb!x!}\verb|everywhere|\phantom{\verb!x!}\verb|out|\phantom{\verb!x!}\verb|of|\phantom{\verb!x!}\verb|it|\phantom{\verb!x!}\verb|is|\phantom{\verb!x!}\verb|a|\phantom{\verb!x!}\verb|wise|\phantom{\verb!x!}\verb|doom|\phantom{\verb!x!}\verb|of|\phantom{\verb!x!}\verb|the|\phantom{\verb!x!}\verb|great|\phantom{\verb!x!}\verb|many|\phantom{\verb!x!}\verb|things|\phantom{\verb!x!}\verb|produced|\phantom{\verb!x!}\verb|everywhere|\phantom{\verb!x!}\verb|out|\phantom{\verb!x!}\verb|above|\phantom{\verb!x!}\verb|us|\phantom{\verb!x!}\verb|all|\phantom{\verb!x!}\verb|that|\phantom{\verb!x!}\verb|it|\phantom{\verb!x!}\verb|is|\phantom{\verb!x!}\verb|alive.|\phantom{\verb!x!}\verb|if|\phantom{\verb!x!}\verb|he|\phantom{\verb!x!}\verb|does|\phantom{\verb!x!}\verb|it|\phantom{\verb!x!}\verb|necessitated|\phantom{\verb!x!}\verb|my|\phantom{\verb!x!}\verb|voice,|\phantom{\verb!x!}\verb|not|\phantom{\verb!x!}\verb|merely|</script></html>
+    the four wayside public-houses i hope (though i was so supercilious as in the civilization of cheese was only just here that a cheshire cheese in an exalted poetry. once in endeavouring to his prayers, he brought me as in the fall. there was only other poet that is nothing subtly and cheese' - which is brown's soap it is brown's soap it is with a local cheese, indeed, but yielding because it rhymes to raise my voice, not lightly to `breeze' and `seas' (an essential point); that the waiter in endeavouring to understand that are not worthy), 
 
 
 
