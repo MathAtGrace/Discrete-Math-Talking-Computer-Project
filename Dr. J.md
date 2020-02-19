@@ -1,7 +1,7 @@
 
 # Final Project
 
-First, we create a ".txt" file.  Dr. Johnson chose an essay by G.K. Chesterton called [Cheese](http://www.gkc.org.uk/gkc/books/cheese.html).
+First, we create a ".txt" file.  Dr. Johnson chose an essay by G.K. Chesterton called [Cheese](http://www.gkc.org.uk/gkc/books/cheese.html).  Dr. Johnson created this file in the same folder that he ran his Sage Notebook.  A great free program for editting .txt files is [Notepad++](https://notepad-plus-plus.org/).
 
 
 ```python
